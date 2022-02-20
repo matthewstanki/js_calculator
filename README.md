@@ -10,4 +10,4 @@ Completed On: 20 February 2022
 
 ## My Work
 
-![JavaScript calculator](https://ibb.co/2jmj3ky)
+![JavaScript calculator](https://i.ibb.co/RCZCTD9/calc-screenshot.png)
